@@ -2,7 +2,7 @@ namespace App\Controller;
 
 use Symfony\Component\HttpFoundation\Response;
 
-class HomoeController
+class HomeController
 {
     public function hello(): Response
     {
